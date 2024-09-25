@@ -24,6 +24,7 @@
     <ProjectGuid>{81690f6e-9c21-447d-897f-050736b38953}</ProjectGuid>
     <RootNamespace>MouseHook</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>DesktopShow</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
